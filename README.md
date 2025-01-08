@@ -22,3 +22,5 @@ Add a link back to the main index.html page on each recipe page
 What I've learned:
 
 Rather than coding the same webpage over and over again, I hollowed out the code used for tortilla-soup.html and turned it into a template I can re-use over and over again. Similar to how one would create a function to avoid having to re-write the same lines of code. This made the process of finishing the project much easier, as I basically already have everything done.
+
+Finished!
