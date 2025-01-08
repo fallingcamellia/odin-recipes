@@ -13,7 +13,7 @@ This will increase my familiarity with creating and editing a project in HTML.
 
 To-do:
 
-Create the two additional pages for recipes
+Create the two additional pages for recipes (1/2)
 Add the Chicken Tortilla Soup image
 Add credits to the original recipe on each webpage
 Add links to each recipe on the main index.html page 
