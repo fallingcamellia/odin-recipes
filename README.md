@@ -17,4 +17,4 @@ Create the two additional pages for recipes
 Add the Chicken Tortilla Soup image
 Add credits to the original recipe on each webpage
 Add links to each recipe on the main index.html page 
-Add a link back to the main index.html page on each recipe page, including tortilla-soup.html
+Add a link back to the main index.html page on each recipe page
